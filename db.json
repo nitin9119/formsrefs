@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Raj Savsani",
+      "address": "gujrat",
+      "age": "27",
+      "department": "electrical",
+      "salary": "100000",
+      "marital_status": "not married",
+      "photo": "https://picsum.photos/200",
+      "id": 3
+    }
+  ]
+}
